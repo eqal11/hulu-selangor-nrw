@@ -1,0 +1,301 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "DMA-001",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              101.59,
+              3.49
+            ],
+            [
+              101.615,
+              3.49
+            ],
+            [
+              101.615,
+              3.515
+            ],
+            [
+              101.59,
+              3.515
+            ],
+            [
+              101.59,
+              3.49
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "dma_id": "DMA-001",
+        "dma_name": "Serendah Demo",
+        "population_served": 13003,
+        "connections": 2974
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "DMA-002",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              101.615,
+              3.49
+            ],
+            [
+              101.64,
+              3.49
+            ],
+            [
+              101.64,
+              3.515
+            ],
+            [
+              101.615,
+              3.515
+            ],
+            [
+              101.615,
+              3.49
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "dma_id": "DMA-002",
+        "dma_name": "Rasa Demo",
+        "population_served": 12648,
+        "connections": 3099
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "DMA-003",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              101.64,
+              3.49
+            ],
+            [
+              101.665,
+              3.49
+            ],
+            [
+              101.665,
+              3.515
+            ],
+            [
+              101.64,
+              3.515
+            ],
+            [
+              101.64,
+              3.49
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "dma_id": "DMA-003",
+        "dma_name": "Batang Kali Demo",
+        "population_served": 11961,
+        "connections": 2964
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "DMA-004",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              101.665,
+              3.49
+            ],
+            [
+              101.69,
+              3.49
+            ],
+            [
+              101.69,
+              3.515
+            ],
+            [
+              101.665,
+              3.515
+            ],
+            [
+              101.665,
+              3.49
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "dma_id": "DMA-004",
+        "dma_name": "Bukit Sentosa Demo",
+        "population_served": 8151,
+        "connections": 1842
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "DMA-005",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              101.59,
+              3.515
+            ],
+            [
+              101.615,
+              3.515
+            ],
+            [
+              101.615,
+              3.54
+            ],
+            [
+              101.59,
+              3.54
+            ],
+            [
+              101.59,
+              3.515
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "dma_id": "DMA-005",
+        "dma_name": "Kuala Kubu Demo",
+        "population_served": 6930,
+        "connections": 1638
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "DMA-006",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              101.615,
+              3.515
+            ],
+            [
+              101.64,
+              3.515
+            ],
+            [
+              101.64,
+              3.54
+            ],
+            [
+              101.615,
+              3.54
+            ],
+            [
+              101.615,
+              3.515
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "dma_id": "DMA-006",
+        "dma_name": "Hulu Yam Demo",
+        "population_served": 13301,
+        "connections": 3168
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "DMA-007",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              101.64,
+              3.515
+            ],
+            [
+              101.665,
+              3.515
+            ],
+            [
+              101.665,
+              3.54
+            ],
+            [
+              101.64,
+              3.54
+            ],
+            [
+              101.64,
+              3.515
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "dma_id": "DMA-007",
+        "dma_name": "Kalumpang Demo",
+        "population_served": 9436,
+        "connections": 2208
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "DMA-008",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              101.665,
+              3.515
+            ],
+            [
+              101.69,
+              3.515
+            ],
+            [
+              101.69,
+              3.54
+            ],
+            [
+              101.665,
+              3.54
+            ],
+            [
+              101.665,
+              3.515
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "dma_id": "DMA-008",
+        "dma_name": "Kerling Demo",
+        "population_served": 10519,
+        "connections": 2358
+      }
+    }
+  ]
+}

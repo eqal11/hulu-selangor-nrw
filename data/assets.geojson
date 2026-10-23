@@ -1,0 +1,2021 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "asset-feature-0001",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5946229,
+          3.5025535
+        ]
+      },
+      "properties": {
+        "asset_id": "ASSET-0001",
+        "asset_type": "dma_inlet_meter",
+        "dma_id": "DMA-001",
+        "install_year": 2018,
+        "condition": "good"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "asset-feature-0002",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6002135,
+          3.4971345
+        ]
+      },
+      "properties": {
+        "asset_id": "ASSET-0002",
+        "asset_type": "flow_meter",
+        "dma_id": "DMA-001",
+        "install_year": 2017,
+        "condition": "poor"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "asset-feature-0003",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6028715,
+          3.5025861
+        ]
+      },
+      "properties": {
+        "asset_id": "ASSET-0003",
+        "asset_type": "flow_meter",
+        "dma_id": "DMA-001",
+        "install_year": 2012,
+        "condition": "good"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "asset-feature-0004",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6080795,
+          3.5082837
+        ]
+      },
+      "properties": {
+        "asset_id": "ASSET-0004",
+        "asset_type": "flow_meter",
+        "dma_id": "DMA-001",
+        "install_year": 2025,
+        "condition": "good"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "asset-feature-0005",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5946632,
+          3.4945378
+        ]
+      },
+      "properties": {
+        "asset_id": "ASSET-0005",
+        "asset_type": "valve",
+        "dma_id": "DMA-001",
+        "install_year": 2003,
+        "condition": "fair"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "asset-feature-0006",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.602648,
+          3.4943567
+        ]
+      },
+      "properties": {
+        "asset_id": "ASSET-0006",
+        "asset_type": "valve",
+        "dma_id": "DMA-001",
+        "install_year": 2020,
+        "condition": "fair"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "asset-feature-0007",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6112285,
+          3.4946595
+        ]
+      },
+      "properties": {
+        "asset_id": "ASSET-0007",
+        "asset_type": "valve",
+        "dma_id": "DMA-001",
+        "install_year": 2022,
+        "condition": "fair"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "asset-feature-0008",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5999481,
+          3.4999106
+        ]
+      },
+      "properties": {
+        "asset_id": "ASSET-0008",
+        "asset_type": "valve",
+        "dma_id": "DMA-001",
+        "install_year": 2000,
+        "condition": "fair"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "asset-feature-0009",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6079774,
+          3.5001624
+        ]
+      },
+      "properties": {
+        "asset_id": "ASSET-0009",
+        "asset_type": "valve",
+        "dma_id": "DMA-001",
+        "install_year": 2006,
+        "condition": "good"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "asset-feature-0010",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5975101,
+          3.5054247
+        ]
+      },
+      "properties": {
+        "asset_id": "ASSET-0010",
+        "asset_type": "valve",
+        "dma_id": "DMA-001",
+        "install_year": 1992,
+        "condition": "poor"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "asset-feature-0011",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6052079,
+          3.5056533
+        ]
+      },
+      "properties": {
+        "asset_id": "ASSET-0011",
+        "asset_type": "valve",
+        "dma_id": "DMA-001",
+        "install_year": 1988,
+        "condition": "poor"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "asset-feature-0012",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5942169,
+          3.5108144
+        ]
+      },
+      "properties": {
+        "asset_id": "ASSET-0012",
+        "asset_type": "valve",
+        "dma_id": "DMA-001",
+        "install_year": 2011,
+        "condition": "fair"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "asset-feature-0013",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6027227,
+          3.5108942
+        ]
+      },
+      "properties": {
+        "asset_id": "ASSET-0013",
+        "asset_type": "valve",
+        "dma_id": "DMA-001",
+        "install_year": 2015,
+        "condition": "poor"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "asset-feature-0014",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6112259,
+          3.5107092
+        ]
+      },
+      "properties": {
+        "asset_id": "ASSET-0014",
+        "asset_type": "valve",
+        "dma_id": "DMA-001",
+        "install_year": 1999,
+        "condition": "good"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "asset-feature-0015",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.619297,
+          3.5026276
+        ]
+      },
+      "properties": {
+        "asset_id": "ASSET-0015",
+        "asset_type": "dma_inlet_meter",
+        "dma_id": "DMA-002",
+        "install_year": 2025,
+        "condition": "good"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "asset-feature-0016",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6247856,
+          3.4972078
+        ]
+      },
+      "properties": {
+        "asset_id": "ASSET-0016",
+        "asset_type": "flow_meter",
+        "dma_id": "DMA-002",
+        "install_year": 2013,
+        "condition": "good"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "asset-feature-0017",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6278101,
+          3.5029638
+        ]
+      },
+      "properties": {
+        "asset_id": "ASSET-0017",
+        "asset_type": "flow_meter",
+        "dma_id": "DMA-002",
+        "install_year": 2010,
+        "condition": "good"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "asset-feature-0018",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6329599,
+          3.5081256
+        ]
+      },
+      "properties": {
+        "asset_id": "ASSET-0018",
+        "asset_type": "flow_meter",
+        "dma_id": "DMA-002",
+        "install_year": 2014,
+        "condition": "fair"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "asset-feature-0019",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.619443,
+          3.4947083
+        ]
+      },
+      "properties": {
+        "asset_id": "ASSET-0019",
+        "asset_type": "valve",
+        "dma_id": "DMA-002",
+        "install_year": 2016,
+        "condition": "good"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "asset-feature-0020",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6278059,
+          3.4947515
+        ]
+      },
+      "properties": {
+        "asset_id": "ASSET-0020",
+        "asset_type": "valve",
+        "dma_id": "DMA-002",
+        "install_year": 1988,
+        "condition": "fair"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "asset-feature-0021",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.636264,
+          3.4942114
+        ]
+      },
+      "properties": {
+        "asset_id": "ASSET-0021",
+        "asset_type": "valve",
+        "dma_id": "DMA-002",
+        "install_year": 2015,
+        "condition": "good"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "asset-feature-0022",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6252135,
+          3.4999786
+        ]
+      },
+      "properties": {
+        "asset_id": "ASSET-0022",
+        "asset_type": "valve",
+        "dma_id": "DMA-002",
+        "install_year": 2010,
+        "condition": "poor"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "asset-feature-0023",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6330625,
+          3.5002773
+        ]
+      },
+      "properties": {
+        "asset_id": "ASSET-0023",
+        "asset_type": "valve",
+        "dma_id": "DMA-002",
+        "install_year": 2023,
+        "condition": "poor"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "asset-feature-0024",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6224584,
+          3.5056962
+        ]
+      },
+      "properties": {
+        "asset_id": "ASSET-0024",
+        "asset_type": "valve",
+        "dma_id": "DMA-002",
+        "install_year": 1998,
+        "condition": "good"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "asset-feature-0025",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6307136,
+          3.5054566
+        ]
+      },
+      "properties": {
+        "asset_id": "ASSET-0025",
+        "asset_type": "valve",
+        "dma_id": "DMA-002",
+        "install_year": 2019,
+        "condition": "fair"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "asset-feature-0026",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6192384,
+          3.5107976
+        ]
+      },
+      "properties": {
+        "asset_id": "ASSET-0026",
+        "asset_type": "valve",
+        "dma_id": "DMA-002",
+        "install_year": 2016,
+        "condition": "good"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "asset-feature-0027",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6279617,
+          3.5107586
+        ]
+      },
+      "properties": {
+        "asset_id": "ASSET-0027",
+        "asset_type": "valve",
+        "dma_id": "DMA-002",
+        "install_year": 2020,
+        "condition": "good"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "asset-feature-0028",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6359113,
+          3.5110283
+        ]
+      },
+      "properties": {
+        "asset_id": "ASSET-0028",
+        "asset_type": "valve",
+        "dma_id": "DMA-002",
+        "install_year": 2025,
+        "condition": "poor"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "asset-feature-0029",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6447386,
+          3.5025606
+        ]
+      },
+      "properties": {
+        "asset_id": "ASSET-0029",
+        "asset_type": "dma_inlet_meter",
+        "dma_id": "DMA-003",
+        "install_year": 2018,
+        "condition": "fair"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "asset-feature-0030",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6498607,
+          3.4971943
+        ]
+      },
+      "properties": {
+        "asset_id": "ASSET-0030",
+        "asset_type": "flow_meter",
+        "dma_id": "DMA-003",
+        "install_year": 2010,
+        "condition": "good"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "asset-feature-0031",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6528776,
+          3.5029446
+        ]
+      },
+      "properties": {
+        "asset_id": "ASSET-0031",
+        "asset_type": "flow_meter",
+        "dma_id": "DMA-003",
+        "install_year": 2021,
+        "condition": "poor"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "asset-feature-0032",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6580704,
+          3.5085449
+        ]
+      },
+      "properties": {
+        "asset_id": "ASSET-0032",
+        "asset_type": "flow_meter",
+        "dma_id": "DMA-003",
+        "install_year": 2020,
+        "condition": "good"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "asset-feature-0033",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6445964,
+          3.4945679
+        ]
+      },
+      "properties": {
+        "asset_id": "ASSET-0033",
+        "asset_type": "valve",
+        "dma_id": "DMA-003",
+        "install_year": 2023,
+        "condition": "poor"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "asset-feature-0034",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6524508,
+          3.4947316
+        ]
+      },
+      "properties": {
+        "asset_id": "ASSET-0034",
+        "asset_type": "valve",
+        "dma_id": "DMA-003",
+        "install_year": 1986,
+        "condition": "fair"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "asset-feature-0035",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6609823,
+          3.4945198
+        ]
+      },
+      "properties": {
+        "asset_id": "ASSET-0035",
+        "asset_type": "valve",
+        "dma_id": "DMA-003",
+        "install_year": 1996,
+        "condition": "good"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "asset-feature-0036",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6497651,
+          3.4999504
+        ]
+      },
+      "properties": {
+        "asset_id": "ASSET-0036",
+        "asset_type": "valve",
+        "dma_id": "DMA-003",
+        "install_year": 2000,
+        "condition": "fair"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "asset-feature-0037",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6581729,
+          3.4997499
+        ]
+      },
+      "properties": {
+        "asset_id": "ASSET-0037",
+        "asset_type": "valve",
+        "dma_id": "DMA-003",
+        "install_year": 1998,
+        "condition": "good"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "asset-feature-0038",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6472371,
+          3.5055847
+        ]
+      },
+      "properties": {
+        "asset_id": "ASSET-0038",
+        "asset_type": "valve",
+        "dma_id": "DMA-003",
+        "install_year": 1988,
+        "condition": "fair"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "asset-feature-0039",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6553183,
+          3.5054717
+        ]
+      },
+      "properties": {
+        "asset_id": "ASSET-0039",
+        "asset_type": "valve",
+        "dma_id": "DMA-003",
+        "install_year": 2022,
+        "condition": "good"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "asset-feature-0040",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6443181,
+          3.511209
+        ]
+      },
+      "properties": {
+        "asset_id": "ASSET-0040",
+        "asset_type": "valve",
+        "dma_id": "DMA-003",
+        "install_year": 2013,
+        "condition": "fair"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "asset-feature-0041",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6528738,
+          3.5109402
+        ]
+      },
+      "properties": {
+        "asset_id": "ASSET-0041",
+        "asset_type": "valve",
+        "dma_id": "DMA-003",
+        "install_year": 2008,
+        "condition": "good"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "asset-feature-0042",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.661205,
+          3.511027
+        ]
+      },
+      "properties": {
+        "asset_id": "ASSET-0042",
+        "asset_type": "valve",
+        "dma_id": "DMA-003",
+        "install_year": 1996,
+        "condition": "good"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "asset-feature-0043",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6696748,
+          3.5028614
+        ]
+      },
+      "properties": {
+        "asset_id": "ASSET-0043",
+        "asset_type": "dma_inlet_meter",
+        "dma_id": "DMA-004",
+        "install_year": 2018,
+        "condition": "good"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "asset-feature-0044",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6747531,
+          3.4970808
+        ]
+      },
+      "properties": {
+        "asset_id": "ASSET-0044",
+        "asset_type": "flow_meter",
+        "dma_id": "DMA-004",
+        "install_year": 2017,
+        "condition": "fair"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "asset-feature-0045",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6777203,
+          3.5024551
+        ]
+      },
+      "properties": {
+        "asset_id": "ASSET-0045",
+        "asset_type": "flow_meter",
+        "dma_id": "DMA-004",
+        "install_year": 2011,
+        "condition": "fair"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "asset-feature-0046",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6829912,
+          3.5085123
+        ]
+      },
+      "properties": {
+        "asset_id": "ASSET-0046",
+        "asset_type": "flow_meter",
+        "dma_id": "DMA-004",
+        "install_year": 2016,
+        "condition": "poor"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "asset-feature-0047",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6692596,
+          3.4942904
+        ]
+      },
+      "properties": {
+        "asset_id": "ASSET-0047",
+        "asset_type": "valve",
+        "dma_id": "DMA-004",
+        "install_year": 1995,
+        "condition": "poor"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "asset-feature-0048",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6777038,
+          3.494729
+        ]
+      },
+      "properties": {
+        "asset_id": "ASSET-0048",
+        "asset_type": "valve",
+        "dma_id": "DMA-004",
+        "install_year": 2001,
+        "condition": "good"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "asset-feature-0049",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.685795,
+          3.4944885
+        ]
+      },
+      "properties": {
+        "asset_id": "ASSET-0049",
+        "asset_type": "valve",
+        "dma_id": "DMA-004",
+        "install_year": 2015,
+        "condition": "fair"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "asset-feature-0050",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6752743,
+          3.5002532
+        ]
+      },
+      "properties": {
+        "asset_id": "ASSET-0050",
+        "asset_type": "valve",
+        "dma_id": "DMA-004",
+        "install_year": 2005,
+        "condition": "good"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "asset-feature-0051",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.682952,
+          3.4999336
+        ]
+      },
+      "properties": {
+        "asset_id": "ASSET-0051",
+        "asset_type": "valve",
+        "dma_id": "DMA-004",
+        "install_year": 1994,
+        "condition": "fair"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "asset-feature-0052",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6723474,
+          3.5055069
+        ]
+      },
+      "properties": {
+        "asset_id": "ASSET-0052",
+        "asset_type": "valve",
+        "dma_id": "DMA-004",
+        "install_year": 2019,
+        "condition": "fair"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "asset-feature-0053",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6806273,
+          3.5057956
+        ]
+      },
+      "properties": {
+        "asset_id": "ASSET-0053",
+        "asset_type": "valve",
+        "dma_id": "DMA-004",
+        "install_year": 2024,
+        "condition": "good"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "asset-feature-0054",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6697251,
+          3.5111863
+        ]
+      },
+      "properties": {
+        "asset_id": "ASSET-0054",
+        "asset_type": "valve",
+        "dma_id": "DMA-004",
+        "install_year": 1989,
+        "condition": "fair"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "asset-feature-0055",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6776356,
+          3.5112075
+        ]
+      },
+      "properties": {
+        "asset_id": "ASSET-0055",
+        "asset_type": "valve",
+        "dma_id": "DMA-004",
+        "install_year": 2006,
+        "condition": "fair"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "asset-feature-0056",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6858851,
+          3.510755
+        ]
+      },
+      "properties": {
+        "asset_id": "ASSET-0056",
+        "asset_type": "valve",
+        "dma_id": "DMA-004",
+        "install_year": 2022,
+        "condition": "good"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "asset-feature-0057",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5944259,
+          3.5276501
+        ]
+      },
+      "properties": {
+        "asset_id": "ASSET-0057",
+        "asset_type": "dma_inlet_meter",
+        "dma_id": "DMA-005",
+        "install_year": 2015,
+        "condition": "good"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "asset-feature-0058",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.59982,
+          3.5221266
+        ]
+      },
+      "properties": {
+        "asset_id": "ASSET-0058",
+        "asset_type": "flow_meter",
+        "dma_id": "DMA-005",
+        "install_year": 2010,
+        "condition": "good"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "asset-feature-0059",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6028788,
+          3.528019
+        ]
+      },
+      "properties": {
+        "asset_id": "ASSET-0059",
+        "asset_type": "flow_meter",
+        "dma_id": "DMA-005",
+        "install_year": 2010,
+        "condition": "fair"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "asset-feature-0060",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6080671,
+          3.5332384
+        ]
+      },
+      "properties": {
+        "asset_id": "ASSET-0060",
+        "asset_type": "flow_meter",
+        "dma_id": "DMA-005",
+        "install_year": 2008,
+        "condition": "fair"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "asset-feature-0061",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5944221,
+          3.5193274
+        ]
+      },
+      "properties": {
+        "asset_id": "ASSET-0061",
+        "asset_type": "valve",
+        "dma_id": "DMA-005",
+        "install_year": 2005,
+        "condition": "fair"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "asset-feature-0062",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6028284,
+          3.5195694
+        ]
+      },
+      "properties": {
+        "asset_id": "ASSET-0062",
+        "asset_type": "valve",
+        "dma_id": "DMA-005",
+        "install_year": 1993,
+        "condition": "poor"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "asset-feature-0063",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6112709,
+          3.519737
+        ]
+      },
+      "properties": {
+        "asset_id": "ASSET-0063",
+        "asset_type": "valve",
+        "dma_id": "DMA-005",
+        "install_year": 2010,
+        "condition": "good"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "asset-feature-0064",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.599974,
+          3.525252
+        ]
+      },
+      "properties": {
+        "asset_id": "ASSET-0064",
+        "asset_type": "valve",
+        "dma_id": "DMA-005",
+        "install_year": 1985,
+        "condition": "fair"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "asset-feature-0065",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6084641,
+          3.5250931
+        ]
+      },
+      "properties": {
+        "asset_id": "ASSET-0065",
+        "asset_type": "valve",
+        "dma_id": "DMA-005",
+        "install_year": 2001,
+        "condition": "good"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "asset-feature-0066",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.597071,
+          3.5303823
+        ]
+      },
+      "properties": {
+        "asset_id": "ASSET-0066",
+        "asset_type": "valve",
+        "dma_id": "DMA-005",
+        "install_year": 2013,
+        "condition": "poor"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "asset-feature-0067",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6055664,
+          3.5303666
+        ]
+      },
+      "properties": {
+        "asset_id": "ASSET-0067",
+        "asset_type": "valve",
+        "dma_id": "DMA-005",
+        "install_year": 1992,
+        "condition": "fair"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "asset-feature-0068",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5945494,
+          3.5360416
+        ]
+      },
+      "properties": {
+        "asset_id": "ASSET-0068",
+        "asset_type": "valve",
+        "dma_id": "DMA-005",
+        "install_year": 2011,
+        "condition": "good"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "asset-feature-0069",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6025107,
+          3.5359304
+        ]
+      },
+      "properties": {
+        "asset_id": "ASSET-0069",
+        "asset_type": "valve",
+        "dma_id": "DMA-005",
+        "install_year": 2005,
+        "condition": "poor"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "asset-feature-0070",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6107121,
+          3.5362231
+        ]
+      },
+      "properties": {
+        "asset_id": "ASSET-0070",
+        "asset_type": "valve",
+        "dma_id": "DMA-005",
+        "install_year": 2001,
+        "condition": "good"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "asset-feature-0071",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6197956,
+          3.5275341
+        ]
+      },
+      "properties": {
+        "asset_id": "ASSET-0071",
+        "asset_type": "dma_inlet_meter",
+        "dma_id": "DMA-006",
+        "install_year": 2011,
+        "condition": "good"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "asset-feature-0072",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6252621,
+          3.5222009
+        ]
+      },
+      "properties": {
+        "asset_id": "ASSET-0072",
+        "asset_type": "flow_meter",
+        "dma_id": "DMA-006",
+        "install_year": 2009,
+        "condition": "fair"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "asset-feature-0073",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6276952,
+          3.527792
+        ]
+      },
+      "properties": {
+        "asset_id": "ASSET-0073",
+        "asset_type": "flow_meter",
+        "dma_id": "DMA-006",
+        "install_year": 2025,
+        "condition": "good"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "asset-feature-0074",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6332783,
+          3.5332631
+        ]
+      },
+      "properties": {
+        "asset_id": "ASSET-0074",
+        "asset_type": "flow_meter",
+        "dma_id": "DMA-006",
+        "install_year": 2017,
+        "condition": "poor"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "asset-feature-0075",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6192267,
+          3.5194867
+        ]
+      },
+      "properties": {
+        "asset_id": "ASSET-0075",
+        "asset_type": "valve",
+        "dma_id": "DMA-006",
+        "install_year": 2022,
+        "condition": "good"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "asset-feature-0076",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6279411,
+          3.5193398
+        ]
+      },
+      "properties": {
+        "asset_id": "ASSET-0076",
+        "asset_type": "valve",
+        "dma_id": "DMA-006",
+        "install_year": 2002,
+        "condition": "fair"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "asset-feature-0077",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6361466,
+          3.5197711
+        ]
+      },
+      "properties": {
+        "asset_id": "ASSET-0077",
+        "asset_type": "valve",
+        "dma_id": "DMA-006",
+        "install_year": 1998,
+        "condition": "fair"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "asset-feature-0078",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6247075,
+          3.5252596
+        ]
+      },
+      "properties": {
+        "asset_id": "ASSET-0078",
+        "asset_type": "valve",
+        "dma_id": "DMA-006",
+        "install_year": 2020,
+        "condition": "fair"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "asset-feature-0079",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6332669,
+          3.5247442
+        ]
+      },
+      "properties": {
+        "asset_id": "ASSET-0079",
+        "asset_type": "valve",
+        "dma_id": "DMA-006",
+        "install_year": 2012,
+        "condition": "poor"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "asset-feature-0080",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6224693,
+          3.5307871
+        ]
+      },
+      "properties": {
+        "asset_id": "ASSET-0080",
+        "asset_type": "valve",
+        "dma_id": "DMA-006",
+        "install_year": 1997,
+        "condition": "fair"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "asset-feature-0081",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6305268,
+          3.530421
+        ]
+      },
+      "properties": {
+        "asset_id": "ASSET-0081",
+        "asset_type": "valve",
+        "dma_id": "DMA-006",
+        "install_year": 2015,
+        "condition": "poor"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "asset-feature-0082",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6195594,
+          3.5357168
+        ]
+      },
+      "properties": {
+        "asset_id": "ASSET-0082",
+        "asset_type": "valve",
+        "dma_id": "DMA-006",
+        "install_year": 2009,
+        "condition": "good"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "asset-feature-0083",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6279152,
+          3.5362679
+        ]
+      },
+      "properties": {
+        "asset_id": "ASSET-0083",
+        "asset_type": "valve",
+        "dma_id": "DMA-006",
+        "install_year": 2019,
+        "condition": "fair"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "asset-feature-0084",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6359841,
+          3.5357646
+        ]
+      },
+      "properties": {
+        "asset_id": "ASSET-0084",
+        "asset_type": "valve",
+        "dma_id": "DMA-006",
+        "install_year": 1998,
+        "condition": "fair"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "asset-feature-0085",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6446159,
+          3.527688
+        ]
+      },
+      "properties": {
+        "asset_id": "ASSET-0085",
+        "asset_type": "dma_inlet_meter",
+        "dma_id": "DMA-007",
+        "install_year": 2019,
+        "condition": "poor"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "asset-feature-0086",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6499924,
+          3.5225275
+        ]
+      },
+      "properties": {
+        "asset_id": "ASSET-0086",
+        "asset_type": "flow_meter",
+        "dma_id": "DMA-007",
+        "install_year": 2023,
+        "condition": "fair"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "asset-feature-0087",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6524578,
+          3.5277172
+        ]
+      },
+      "properties": {
+        "asset_id": "ASSET-0087",
+        "asset_type": "flow_meter",
+        "dma_id": "DMA-007",
+        "install_year": 2007,
+        "condition": "good"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "asset-feature-0088",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.658547,
+          3.5331983
+        ]
+      },
+      "properties": {
+        "asset_id": "ASSET-0088",
+        "asset_type": "flow_meter",
+        "dma_id": "DMA-007",
+        "install_year": 2013,
+        "condition": "fair"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "asset-feature-0089",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6442719,
+          3.5194251
+        ]
+      },
+      "properties": {
+        "asset_id": "ASSET-0089",
+        "asset_type": "valve",
+        "dma_id": "DMA-007",
+        "install_year": 2024,
+        "condition": "good"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "asset-feature-0090",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6527347,
+          3.5197575
+        ]
+      },
+      "properties": {
+        "asset_id": "ASSET-0090",
+        "asset_type": "valve",
+        "dma_id": "DMA-007",
+        "install_year": 2019,
+        "condition": "fair"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "asset-feature-0091",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6608673,
+          3.5193689
+        ]
+      },
+      "properties": {
+        "asset_id": "ASSET-0091",
+        "asset_type": "valve",
+        "dma_id": "DMA-007",
+        "install_year": 1998,
+        "condition": "fair"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "asset-feature-0092",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6499543,
+          3.5249941
+        ]
+      },
+      "properties": {
+        "asset_id": "ASSET-0092",
+        "asset_type": "valve",
+        "dma_id": "DMA-007",
+        "install_year": 1988,
+        "condition": "good"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "asset-feature-0093",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.658418,
+          3.5251945
+        ]
+      },
+      "properties": {
+        "asset_id": "ASSET-0093",
+        "asset_type": "valve",
+        "dma_id": "DMA-007",
+        "install_year": 2006,
+        "condition": "fair"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "asset-feature-0094",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6474212,
+          3.5304918
+        ]
+      },
+      "properties": {
+        "asset_id": "ASSET-0094",
+        "asset_type": "valve",
+        "dma_id": "DMA-007",
+        "install_year": 2019,
+        "condition": "good"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "asset-feature-0095",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.655205,
+          3.5302354
+        ]
+      },
+      "properties": {
+        "asset_id": "ASSET-0095",
+        "asset_type": "valve",
+        "dma_id": "DMA-007",
+        "install_year": 2014,
+        "condition": "good"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "asset-feature-0096",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6446665,
+          3.5362775
+        ]
+      },
+      "properties": {
+        "asset_id": "ASSET-0096",
+        "asset_type": "valve",
+        "dma_id": "DMA-007",
+        "install_year": 1996,
+        "condition": "fair"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "asset-feature-0097",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6528897,
+          3.5362404
+        ]
+      },
+      "properties": {
+        "asset_id": "ASSET-0097",
+        "asset_type": "valve",
+        "dma_id": "DMA-007",
+        "install_year": 1985,
+        "condition": "fair"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "asset-feature-0098",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6611,
+          3.5358644
+        ]
+      },
+      "properties": {
+        "asset_id": "ASSET-0098",
+        "asset_type": "valve",
+        "dma_id": "DMA-007",
+        "install_year": 2000,
+        "condition": "good"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "asset-feature-0099",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6695678,
+          3.5277679
+        ]
+      },
+      "properties": {
+        "asset_id": "ASSET-0099",
+        "asset_type": "dma_inlet_meter",
+        "dma_id": "DMA-008",
+        "install_year": 2022,
+        "condition": "poor"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "asset-feature-0100",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6747743,
+          3.5221761
+        ]
+      },
+      "properties": {
+        "asset_id": "ASSET-0100",
+        "asset_type": "flow_meter",
+        "dma_id": "DMA-008",
+        "install_year": 2022,
+        "condition": "good"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "asset-feature-0101",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.677607,
+          3.5277595
+        ]
+      },
+      "properties": {
+        "asset_id": "ASSET-0101",
+        "asset_type": "flow_meter",
+        "dma_id": "DMA-008",
+        "install_year": 2024,
+        "condition": "fair"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "asset-feature-0102",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6835323,
+          3.5331996
+        ]
+      },
+      "properties": {
+        "asset_id": "ASSET-0102",
+        "asset_type": "flow_meter",
+        "dma_id": "DMA-008",
+        "install_year": 2009,
+        "condition": "fair"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "asset-feature-0103",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6693675,
+          3.5193068
+        ]
+      },
+      "properties": {
+        "asset_id": "ASSET-0103",
+        "asset_type": "valve",
+        "dma_id": "DMA-008",
+        "install_year": 2007,
+        "condition": "poor"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "asset-feature-0104",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6775308,
+          3.5192646
+        ]
+      },
+      "properties": {
+        "asset_id": "ASSET-0104",
+        "asset_type": "valve",
+        "dma_id": "DMA-008",
+        "install_year": 2009,
+        "condition": "fair"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "asset-feature-0105",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6860932,
+          3.5193206
+        ]
+      },
+      "properties": {
+        "asset_id": "ASSET-0105",
+        "asset_type": "valve",
+        "dma_id": "DMA-008",
+        "install_year": 1991,
+        "condition": "fair"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "asset-feature-0106",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6751634,
+          3.5252484
+        ]
+      },
+      "properties": {
+        "asset_id": "ASSET-0106",
+        "asset_type": "valve",
+        "dma_id": "DMA-008",
+        "install_year": 2010,
+        "condition": "good"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "asset-feature-0107",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6833174,
+          3.5248914
+        ]
+      },
+      "properties": {
+        "asset_id": "ASSET-0107",
+        "asset_type": "valve",
+        "dma_id": "DMA-008",
+        "install_year": 1990,
+        "condition": "poor"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "asset-feature-0108",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6724114,
+          3.5303799
+        ]
+      },
+      "properties": {
+        "asset_id": "ASSET-0108",
+        "asset_type": "valve",
+        "dma_id": "DMA-008",
+        "install_year": 2002,
+        "condition": "fair"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "asset-feature-0109",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6803112,
+          3.5306144
+        ]
+      },
+      "properties": {
+        "asset_id": "ASSET-0109",
+        "asset_type": "valve",
+        "dma_id": "DMA-008",
+        "install_year": 2020,
+        "condition": "fair"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "asset-feature-0110",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6693642,
+          3.5362792
+        ]
+      },
+      "properties": {
+        "asset_id": "ASSET-0110",
+        "asset_type": "valve",
+        "dma_id": "DMA-008",
+        "install_year": 2010,
+        "condition": "fair"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "asset-feature-0111",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6779305,
+          3.5360794
+        ]
+      },
+      "properties": {
+        "asset_id": "ASSET-0111",
+        "asset_type": "valve",
+        "dma_id": "DMA-008",
+        "install_year": 1993,
+        "condition": "fair"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "asset-feature-0112",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6858641,
+          3.5361586
+        ]
+      },
+      "properties": {
+        "asset_id": "ASSET-0112",
+        "asset_type": "valve",
+        "dma_id": "DMA-008",
+        "install_year": 2018,
+        "condition": "poor"
+      }
+    }
+  ]
+}

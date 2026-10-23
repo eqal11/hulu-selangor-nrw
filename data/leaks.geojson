@@ -1,0 +1,1325 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "leak-feature-0001",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5956003,
+          3.4945382
+        ]
+      },
+      "properties": {
+        "leak_id": "LEAK-0001",
+        "pipe_id": "PIPE-0001",
+        "dma_id": "DMA-001",
+        "leak_type": "burst",
+        "reported_date": "2025-03-29",
+        "repair_status": "repaired",
+        "est_loss_m3_day": 164.05
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "leak-feature-0002",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6053004,
+          3.497989
+        ]
+      },
+      "properties": {
+        "leak_id": "LEAK-0002",
+        "pipe_id": "PIPE-0023",
+        "dma_id": "DMA-001",
+        "leak_type": "service connection",
+        "reported_date": "2025-10-20",
+        "repair_status": "in_progress",
+        "est_loss_m3_day": 21.99
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "leak-feature-0003",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6027889,
+          3.5007235
+        ]
+      },
+      "properties": {
+        "leak_id": "LEAK-0003",
+        "pipe_id": "PIPE-0034",
+        "dma_id": "DMA-001",
+        "leak_type": "burst",
+        "reported_date": "2025-04-11",
+        "repair_status": "repaired",
+        "est_loss_m3_day": 158.93
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "leak-feature-0004",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6022468,
+          3.5026474
+        ]
+      },
+      "properties": {
+        "leak_id": "LEAK-0004",
+        "pipe_id": "PIPE-0044",
+        "dma_id": "DMA-001",
+        "leak_type": "service connection",
+        "reported_date": "2025-02-28",
+        "repair_status": "repaired",
+        "est_loss_m3_day": 5.38
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "leak-feature-0005",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6010302,
+          3.5083296
+        ]
+      },
+      "properties": {
+        "leak_id": "LEAK-0005",
+        "pipe_id": "PIPE-0070",
+        "dma_id": "DMA-001",
+        "leak_type": "service connection",
+        "reported_date": "2025-07-23",
+        "repair_status": "repaired",
+        "est_loss_m3_day": 5.86
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "leak-feature-0006",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6223307,
+          3.4962188
+        ]
+      },
+      "properties": {
+        "leak_id": "LEAK-0006",
+        "pipe_id": "PIPE-0088",
+        "dma_id": "DMA-002",
+        "leak_type": "service connection",
+        "reported_date": "2025-05-24",
+        "repair_status": "open",
+        "est_loss_m3_day": 9.3
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "leak-feature-0007",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6295161,
+          3.4944218
+        ]
+      },
+      "properties": {
+        "leak_id": "LEAK-0007",
+        "pipe_id": "PIPE-0091",
+        "dma_id": "DMA-002",
+        "leak_type": "joint",
+        "reported_date": "2025-02-23",
+        "repair_status": "repaired",
+        "est_loss_m3_day": 15.39
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "leak-feature-0008",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6333476,
+          3.4956506
+        ]
+      },
+      "properties": {
+        "leak_id": "LEAK-0008",
+        "pipe_id": "PIPE-0096",
+        "dma_id": "DMA-002",
+        "leak_type": "joint",
+        "reported_date": "2025-12-11",
+        "repair_status": "in_progress",
+        "est_loss_m3_day": 23.29
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "leak-feature-0009",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6210822,
+          3.4971345
+        ]
+      },
+      "properties": {
+        "leak_id": "LEAK-0009",
+        "pipe_id": "PIPE-0098",
+        "dma_id": "DMA-002",
+        "leak_type": "joint",
+        "reported_date": "2025-12-07",
+        "repair_status": "in_progress",
+        "est_loss_m3_day": 19.51
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "leak-feature-0010",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6250808,
+          3.4995041
+        ]
+      },
+      "properties": {
+        "leak_id": "LEAK-0010",
+        "pipe_id": "PIPE-0103",
+        "dma_id": "DMA-002",
+        "leak_type": "burst",
+        "reported_date": "2025-08-06",
+        "repair_status": "repaired",
+        "est_loss_m3_day": 74.25
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "leak-feature-0011",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6361901,
+          3.4988987
+        ]
+      },
+      "properties": {
+        "leak_id": "LEAK-0011",
+        "pipe_id": "PIPE-0110",
+        "dma_id": "DMA-002",
+        "leak_type": "burst",
+        "reported_date": "2025-01-01",
+        "repair_status": "repaired",
+        "est_loss_m3_day": 77.05
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "leak-feature-0012",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.627784,
+          3.5016385
+        ]
+      },
+      "properties": {
+        "leak_id": "LEAK-0012",
+        "pipe_id": "PIPE-0118",
+        "dma_id": "DMA-002",
+        "leak_type": "joint",
+        "reported_date": "2025-03-25",
+        "repair_status": "repaired",
+        "est_loss_m3_day": 19.81
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "leak-feature-0013",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6361962,
+          3.5022712
+        ]
+      },
+      "properties": {
+        "leak_id": "LEAK-0013",
+        "pipe_id": "PIPE-0123",
+        "dma_id": "DMA-002",
+        "leak_type": "joint",
+        "reported_date": "2025-04-12",
+        "repair_status": "repaired",
+        "est_loss_m3_day": 48.19
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "leak-feature-0014",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6202251,
+          3.5083712
+        ]
+      },
+      "properties": {
+        "leak_id": "LEAK-0014",
+        "pipe_id": "PIPE-0150",
+        "dma_id": "DMA-002",
+        "leak_type": "joint",
+        "reported_date": "2025-12-08",
+        "repair_status": "repaired",
+        "est_loss_m3_day": 39.94
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "leak-feature-0015",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6225347,
+          3.5104794
+        ]
+      },
+      "properties": {
+        "leak_id": "LEAK-0015",
+        "pipe_id": "PIPE-0153",
+        "dma_id": "DMA-002",
+        "leak_type": "service connection",
+        "reported_date": "2025-03-06",
+        "repair_status": "open",
+        "est_loss_m3_day": 21.35
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "leak-feature-0016",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6497645,
+          3.4961236
+        ]
+      },
+      "properties": {
+        "leak_id": "LEAK-0016",
+        "pipe_id": "PIPE-0174",
+        "dma_id": "DMA-003",
+        "leak_type": "joint",
+        "reported_date": "2025-08-17",
+        "repair_status": "open",
+        "est_loss_m3_day": 36.57
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "leak-feature-0017",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6590849,
+          3.4972299
+        ]
+      },
+      "properties": {
+        "leak_id": "LEAK-0017",
+        "pipe_id": "PIPE-0192",
+        "dma_id": "DMA-003",
+        "leak_type": "joint",
+        "reported_date": "2025-05-08",
+        "repair_status": "repaired",
+        "est_loss_m3_day": 39.13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "leak-feature-0018",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6445992,
+          3.5059056
+        ]
+      },
+      "properties": {
+        "leak_id": "LEAK-0018",
+        "pipe_id": "PIPE-0222",
+        "dma_id": "DMA-003",
+        "leak_type": "service connection",
+        "reported_date": "2025-03-20",
+        "repair_status": "repaired",
+        "est_loss_m3_day": 18.14
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "leak-feature-0019",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6480349,
+          3.5056603
+        ]
+      },
+      "properties": {
+        "leak_id": "LEAK-0019",
+        "pipe_id": "PIPE-0223",
+        "dma_id": "DMA-003",
+        "leak_type": "joint",
+        "reported_date": "2025-04-28",
+        "repair_status": "repaired",
+        "est_loss_m3_day": 18.69
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "leak-feature-0020",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6472429,
+          3.5059194
+        ]
+      },
+      "properties": {
+        "leak_id": "LEAK-0020",
+        "pipe_id": "PIPE-0224",
+        "dma_id": "DMA-003",
+        "leak_type": "joint",
+        "reported_date": "2025-01-03",
+        "repair_status": "repaired",
+        "est_loss_m3_day": 41.8
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "leak-feature-0021",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6466388,
+          3.5083254
+        ]
+      },
+      "properties": {
+        "leak_id": "LEAK-0021",
+        "pipe_id": "PIPE-0234",
+        "dma_id": "DMA-003",
+        "leak_type": "joint",
+        "reported_date": "2025-12-05",
+        "repair_status": "repaired",
+        "est_loss_m3_day": 19.53
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "leak-feature-0022",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.655309,
+          3.5101819
+        ]
+      },
+      "properties": {
+        "leak_id": "LEAK-0022",
+        "pipe_id": "PIPE-0243",
+        "dma_id": "DMA-003",
+        "leak_type": "burst",
+        "reported_date": "2025-07-01",
+        "repair_status": "repaired",
+        "est_loss_m3_day": 87.15
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "leak-feature-0023",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.65976,
+          3.5082839
+        ]
+      },
+      "properties": {
+        "leak_id": "LEAK-0023",
+        "pipe_id": "PIPE-0244",
+        "dma_id": "DMA-003",
+        "leak_type": "service connection",
+        "reported_date": "2025-09-06",
+        "repair_status": "repaired",
+        "est_loss_m3_day": 18.41
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "leak-feature-0024",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6459054,
+          3.5111554
+        ]
+      },
+      "properties": {
+        "leak_id": "LEAK-0024",
+        "pipe_id": "PIPE-0247",
+        "dma_id": "DMA-003",
+        "leak_type": "burst",
+        "reported_date": "2025-12-22",
+        "repair_status": "repaired",
+        "est_loss_m3_day": 66.13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "leak-feature-0025",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6785717,
+          3.494694
+        ]
+      },
+      "properties": {
+        "leak_id": "LEAK-0025",
+        "pipe_id": "PIPE-0259",
+        "dma_id": "DMA-004",
+        "leak_type": "joint",
+        "reported_date": "2025-01-22",
+        "repair_status": "open",
+        "est_loss_m3_day": 50.81
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "leak-feature-0026",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.683222,
+          3.4956208
+        ]
+      },
+      "properties": {
+        "leak_id": "LEAK-0026",
+        "pipe_id": "PIPE-0264",
+        "dma_id": "DMA-004",
+        "leak_type": "burst",
+        "reported_date": "2025-02-28",
+        "repair_status": "repaired",
+        "est_loss_m3_day": 147.8
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "leak-feature-0027",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6858228,
+          3.4956182
+        ]
+      },
+      "properties": {
+        "leak_id": "LEAK-0027",
+        "pipe_id": "PIPE-0265",
+        "dma_id": "DMA-004",
+        "leak_type": "joint",
+        "reported_date": "2025-11-11",
+        "repair_status": "in_progress",
+        "est_loss_m3_day": 43.22
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "leak-feature-0028",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6735785,
+          3.5001316
+        ]
+      },
+      "properties": {
+        "leak_id": "LEAK-0028",
+        "pipe_id": "PIPE-0281",
+        "dma_id": "DMA-004",
+        "leak_type": "joint",
+        "reported_date": "2025-12-07",
+        "repair_status": "in_progress",
+        "est_loss_m3_day": 61.11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "leak-feature-0029",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6805523,
+          3.5046145
+        ]
+      },
+      "properties": {
+        "leak_id": "LEAK-0029",
+        "pipe_id": "PIPE-0301",
+        "dma_id": "DMA-004",
+        "leak_type": "joint",
+        "reported_date": "2025-01-22",
+        "repair_status": "repaired",
+        "est_loss_m3_day": 49.79
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "leak-feature-0030",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6758069,
+          3.505355
+        ]
+      },
+      "properties": {
+        "leak_id": "LEAK-0030",
+        "pipe_id": "PIPE-0309",
+        "dma_id": "DMA-004",
+        "leak_type": "burst",
+        "reported_date": "2025-08-15",
+        "repair_status": "repaired",
+        "est_loss_m3_day": 46.79
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "leak-feature-0031",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6839155,
+          3.5053291
+        ]
+      },
+      "properties": {
+        "leak_id": "LEAK-0031",
+        "pipe_id": "PIPE-0315",
+        "dma_id": "DMA-004",
+        "leak_type": "service connection",
+        "reported_date": "2025-05-01",
+        "repair_status": "repaired",
+        "est_loss_m3_day": 4.53
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "leak-feature-0032",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6739938,
+          3.5081424
+        ]
+      },
+      "properties": {
+        "leak_id": "LEAK-0032",
+        "pipe_id": "PIPE-0320",
+        "dma_id": "DMA-004",
+        "leak_type": "service connection",
+        "reported_date": "2025-08-23",
+        "repair_status": "open",
+        "est_loss_m3_day": 14.7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "leak-feature-0033",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6748465,
+          3.5098204
+        ]
+      },
+      "properties": {
+        "leak_id": "LEAK-0033",
+        "pipe_id": "PIPE-0323",
+        "dma_id": "DMA-004",
+        "leak_type": "burst",
+        "reported_date": "2025-04-09",
+        "repair_status": "repaired",
+        "est_loss_m3_day": 149.66
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "leak-feature-0034",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6801385,
+          3.5109723
+        ]
+      },
+      "properties": {
+        "leak_id": "LEAK-0034",
+        "pipe_id": "PIPE-0334",
+        "dma_id": "DMA-004",
+        "leak_type": "joint",
+        "reported_date": "2025-06-05",
+        "repair_status": "repaired",
+        "est_loss_m3_day": 41.09
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "leak-feature-0035",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6017645,
+          3.5196051
+        ]
+      },
+      "properties": {
+        "leak_id": "LEAK-0035",
+        "pipe_id": "PIPE-0341",
+        "dma_id": "DMA-005",
+        "leak_type": "joint",
+        "reported_date": "2025-08-29",
+        "repair_status": "repaired",
+        "est_loss_m3_day": 42.6
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "leak-feature-0036",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5959573,
+          3.522117
+        ]
+      },
+      "properties": {
+        "leak_id": "LEAK-0036",
+        "pipe_id": "PIPE-0350",
+        "dma_id": "DMA-005",
+        "leak_type": "joint",
+        "reported_date": "2025-02-27",
+        "repair_status": "repaired",
+        "est_loss_m3_day": 21.23
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "leak-feature-0037",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6014524,
+          3.5221311
+        ]
+      },
+      "properties": {
+        "leak_id": "LEAK-0037",
+        "pipe_id": "PIPE-0354",
+        "dma_id": "DMA-005",
+        "leak_type": "joint",
+        "reported_date": "2025-01-09",
+        "repair_status": "repaired",
+        "est_loss_m3_day": 51.82
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "leak-feature-0038",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5945267,
+          3.5297375
+        ]
+      },
+      "properties": {
+        "leak_id": "LEAK-0038",
+        "pipe_id": "PIPE-0377",
+        "dma_id": "DMA-005",
+        "leak_type": "joint",
+        "reported_date": "2025-08-21",
+        "repair_status": "repaired",
+        "est_loss_m3_day": 20.88
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "leak-feature-0039",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5998829,
+          3.5285902
+        ]
+      },
+      "properties": {
+        "leak_id": "LEAK-0039",
+        "pipe_id": "PIPE-0381",
+        "dma_id": "DMA-005",
+        "leak_type": "service connection",
+        "reported_date": "2025-08-19",
+        "repair_status": "repaired",
+        "est_loss_m3_day": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "leak-feature-0040",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6027727,
+          3.5310708
+        ]
+      },
+      "properties": {
+        "leak_id": "LEAK-0040",
+        "pipe_id": "PIPE-0396",
+        "dma_id": "DMA-005",
+        "leak_type": "joint",
+        "reported_date": "2025-09-10",
+        "repair_status": "repaired",
+        "est_loss_m3_day": 26.59
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "leak-feature-0041",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6107937,
+          3.5353
+        ]
+      },
+      "properties": {
+        "leak_id": "LEAK-0041",
+        "pipe_id": "PIPE-0414",
+        "dma_id": "DMA-005",
+        "leak_type": "service connection",
+        "reported_date": "2025-07-08",
+        "repair_status": "repaired",
+        "est_loss_m3_day": 25.71
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "leak-feature-0042",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6043619,
+          3.5359664
+        ]
+      },
+      "properties": {
+        "leak_id": "LEAK-0042",
+        "pipe_id": "PIPE-0418",
+        "dma_id": "DMA-005",
+        "leak_type": "burst",
+        "reported_date": "2025-04-15",
+        "repair_status": "repaired",
+        "est_loss_m3_day": 70.39
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "leak-feature-0043",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6193806,
+          3.5207666
+        ]
+      },
+      "properties": {
+        "leak_id": "LEAK-0043",
+        "pipe_id": "PIPE-0422",
+        "dma_id": "DMA-006",
+        "leak_type": "joint",
+        "reported_date": "2025-12-12",
+        "repair_status": "repaired",
+        "est_loss_m3_day": 27.47
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "leak-feature-0044",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.622054,
+          3.5234022
+        ]
+      },
+      "properties": {
+        "leak_id": "LEAK-0044",
+        "pipe_id": "PIPE-0437",
+        "dma_id": "DMA-006",
+        "leak_type": "joint",
+        "reported_date": "2025-11-04",
+        "repair_status": "in_progress",
+        "est_loss_m3_day": 63.86
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "leak-feature-0045",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6199667,
+          3.525187
+        ]
+      },
+      "properties": {
+        "leak_id": "LEAK-0045",
+        "pipe_id": "PIPE-0447",
+        "dma_id": "DMA-006",
+        "leak_type": "joint",
+        "reported_date": "2025-01-20",
+        "repair_status": "repaired",
+        "est_loss_m3_day": 11.53
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "leak-feature-0046",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6251457,
+          3.52721
+        ]
+      },
+      "properties": {
+        "leak_id": "LEAK-0046",
+        "pipe_id": "PIPE-0452",
+        "dma_id": "DMA-006",
+        "leak_type": "joint",
+        "reported_date": "2025-01-04",
+        "repair_status": "repaired",
+        "est_loss_m3_day": 57.73
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "leak-feature-0047",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.629847,
+          3.5278967
+        ]
+      },
+      "properties": {
+        "leak_id": "LEAK-0047",
+        "pipe_id": "PIPE-0466",
+        "dma_id": "DMA-006",
+        "leak_type": "joint",
+        "reported_date": "2025-01-29",
+        "repair_status": "repaired",
+        "est_loss_m3_day": 13.79
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "leak-feature-0048",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6324839,
+          3.5302634
+        ]
+      },
+      "properties": {
+        "leak_id": "LEAK-0048",
+        "pipe_id": "PIPE-0481",
+        "dma_id": "DMA-006",
+        "leak_type": "joint",
+        "reported_date": "2025-01-14",
+        "repair_status": "repaired",
+        "est_loss_m3_day": 53.35
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "leak-feature-0049",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6211042,
+          3.5330993
+        ]
+      },
+      "properties": {
+        "leak_id": "LEAK-0049",
+        "pipe_id": "PIPE-0486",
+        "dma_id": "DMA-006",
+        "leak_type": "joint",
+        "reported_date": "2025-05-17",
+        "repair_status": "repaired",
+        "est_loss_m3_day": 53.37
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "leak-feature-0050",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6221828,
+          3.5351675
+        ]
+      },
+      "properties": {
+        "leak_id": "LEAK-0050",
+        "pipe_id": "PIPE-0489",
+        "dma_id": "DMA-006",
+        "leak_type": "joint",
+        "reported_date": "2025-04-14",
+        "repair_status": "repaired",
+        "est_loss_m3_day": 39.27
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "leak-feature-0051",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6203777,
+          3.5358607
+        ]
+      },
+      "properties": {
+        "leak_id": "LEAK-0051",
+        "pipe_id": "PIPE-0499",
+        "dma_id": "DMA-006",
+        "leak_type": "joint",
+        "reported_date": "2025-11-24",
+        "repair_status": "repaired",
+        "est_loss_m3_day": 62.67
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "leak-feature-0052",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6543147,
+          3.5196657
+        ]
+      },
+      "properties": {
+        "leak_id": "LEAK-0052",
+        "pipe_id": "PIPE-0511",
+        "dma_id": "DMA-007",
+        "leak_type": "joint",
+        "reported_date": "2025-07-08",
+        "repair_status": "open",
+        "est_loss_m3_day": 8.94
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "leak-feature-0053",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6553868,
+          3.5202773
+        ]
+      },
+      "properties": {
+        "leak_id": "LEAK-0053",
+        "pipe_id": "PIPE-0514",
+        "dma_id": "DMA-007",
+        "leak_type": "service connection",
+        "reported_date": "2025-09-27",
+        "repair_status": "repaired",
+        "est_loss_m3_day": 3.57
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "leak-feature-0054",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6537178,
+          3.527695
+        ]
+      },
+      "properties": {
+        "leak_id": "LEAK-0054",
+        "pipe_id": "PIPE-0550",
+        "dma_id": "DMA-007",
+        "leak_type": "service connection",
+        "reported_date": "2025-10-30",
+        "repair_status": "in_progress",
+        "est_loss_m3_day": 14.87
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "leak-feature-0055",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6609812,
+          3.5280732
+        ]
+      },
+      "properties": {
+        "leak_id": "LEAK-0055",
+        "pipe_id": "PIPE-0556",
+        "dma_id": "DMA-007",
+        "leak_type": "burst",
+        "reported_date": "2025-08-16",
+        "repair_status": "repaired",
+        "est_loss_m3_day": 125.71
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "leak-feature-0056",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6526645,
+          3.5320977
+        ]
+      },
+      "properties": {
+        "leak_id": "LEAK-0056",
+        "pipe_id": "PIPE-0564",
+        "dma_id": "DMA-007",
+        "leak_type": "burst",
+        "reported_date": "2025-12-24",
+        "repair_status": "repaired",
+        "est_loss_m3_day": 86.73
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "leak-feature-0057",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6562742,
+          3.5301669
+        ]
+      },
+      "properties": {
+        "leak_id": "LEAK-0057",
+        "pipe_id": "PIPE-0565",
+        "dma_id": "DMA-007",
+        "leak_type": "joint",
+        "reported_date": "2025-08-17",
+        "repair_status": "repaired",
+        "est_loss_m3_day": 30.6
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "leak-feature-0058",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6477894,
+          3.5334336
+        ]
+      },
+      "properties": {
+        "leak_id": "LEAK-0058",
+        "pipe_id": "PIPE-0572",
+        "dma_id": "DMA-007",
+        "leak_type": "burst",
+        "reported_date": "2025-04-28",
+        "repair_status": "repaired",
+        "est_loss_m3_day": 68.09
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "leak-feature-0059",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6584936,
+          3.5353607
+        ]
+      },
+      "properties": {
+        "leak_id": "LEAK-0059",
+        "pipe_id": "PIPE-0581",
+        "dma_id": "DMA-007",
+        "leak_type": "burst",
+        "reported_date": "2025-08-25",
+        "repair_status": "repaired",
+        "est_loss_m3_day": 151.9
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "leak-feature-0060",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6503953,
+          3.5359919
+        ]
+      },
+      "properties": {
+        "leak_id": "LEAK-0060",
+        "pipe_id": "PIPE-0585",
+        "dma_id": "DMA-007",
+        "leak_type": "joint",
+        "reported_date": "2025-09-21",
+        "repair_status": "repaired",
+        "est_loss_m3_day": 27.86
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "leak-feature-0061",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6753739,
+          3.5196712
+        ]
+      },
+      "properties": {
+        "leak_id": "LEAK-0061",
+        "pipe_id": "PIPE-0593",
+        "dma_id": "DMA-008",
+        "leak_type": "service connection",
+        "reported_date": "2025-06-20",
+        "repair_status": "repaired",
+        "est_loss_m3_day": 15.88
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "leak-feature-0062",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6692298,
+          3.5236351
+        ]
+      },
+      "properties": {
+        "leak_id": "LEAK-0062",
+        "pipe_id": "PIPE-0603",
+        "dma_id": "DMA-008",
+        "leak_type": "joint",
+        "reported_date": "2025-01-28",
+        "repair_status": "repaired",
+        "est_loss_m3_day": 32.36
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "leak-feature-0063",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6778803,
+          3.5234851
+        ]
+      },
+      "properties": {
+        "leak_id": "LEAK-0063",
+        "pipe_id": "PIPE-0609",
+        "dma_id": "DMA-008",
+        "leak_type": "burst",
+        "reported_date": "2025-09-22",
+        "repair_status": "repaired",
+        "est_loss_m3_day": 167.33
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "leak-feature-0064",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.682996,
+          3.5221748
+        ]
+      },
+      "properties": {
+        "leak_id": "LEAK-0064",
+        "pipe_id": "PIPE-0610",
+        "dma_id": "DMA-008",
+        "leak_type": "service connection",
+        "reported_date": "2025-08-04",
+        "repair_status": "repaired",
+        "est_loss_m3_day": 12.58
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "leak-feature-0065",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6778861,
+          3.5253686
+        ]
+      },
+      "properties": {
+        "leak_id": "LEAK-0065",
+        "pipe_id": "PIPE-0622",
+        "dma_id": "DMA-008",
+        "leak_type": "burst",
+        "reported_date": "2025-05-23",
+        "repair_status": "repaired",
+        "est_loss_m3_day": 161.82
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "leak-feature-0066",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6852574,
+          3.5333574
+        ]
+      },
+      "properties": {
+        "leak_id": "LEAK-0066",
+        "pipe_id": "PIPE-0664",
+        "dma_id": "DMA-008",
+        "leak_type": "service connection",
+        "reported_date": "2025-01-16",
+        "repair_status": "repaired",
+        "est_loss_m3_day": 8.48
+      }
+    }
+  ]
+}

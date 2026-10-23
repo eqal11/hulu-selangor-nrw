@@ -1,0 +1,305 @@
+{
+  "notice": "All data is synthetic, for demonstration only.",
+  "seed": 20251023,
+  "reference_year": 2025,
+  "crs": "EPSG:4326",
+  "coordinate_order": "[longitude, latitude]",
+  "synthetic_extent": {
+    "west": 101.59,
+    "south": 3.49,
+    "east": 101.69,
+    "north": 3.54
+  },
+  "target_issue_rate_pct": 3,
+  "denominator": "Pipe features; each affected feature has one deliberate issue.",
+  "total_pipe_features": 674,
+  "affected_pipe_features": 20,
+  "actual_issue_rate_pct": 2.9674,
+  "feature_index_convention": "Zero-based index in pipes.geojson.features; feature_id is the stable unique locator.",
+  "counts_by_issue_type": {
+    "disconnected_segment": 2,
+    "missing_material": 6,
+    "missing_install_year": 6,
+    "duplicate_pipe_id": 3,
+    "invalid_dma_id": 3
+  },
+  "problematic_dma_ids": [
+    "DMA-004",
+    "DMA-005",
+    "DMA-007"
+  ],
+  "issues": [
+    {
+      "issue_id": "QA-001",
+      "file": "pipes.geojson",
+      "feature_index": 672,
+      "feature_id": "pipe-feature-0673",
+      "pipe_id": "PIPE-0673",
+      "issue_type": "disconnected_segment",
+      "field": "geometry",
+      "original_value": null,
+      "injected_value": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            101.616,
+            3.491
+          ],
+          [
+            101.6177,
+            3.4917
+          ]
+        ]
+      },
+      "description": "Added isolated segment inside its DMA; neither endpoint connects to the grid.",
+      "expected_dma_id": "DMA-002"
+    },
+    {
+      "issue_id": "QA-002",
+      "file": "pipes.geojson",
+      "feature_index": 673,
+      "feature_id": "pipe-feature-0674",
+      "pipe_id": "PIPE-0674",
+      "issue_type": "disconnected_segment",
+      "field": "geometry",
+      "original_value": null,
+      "injected_value": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            101.616,
+            3.516
+          ],
+          [
+            101.6177,
+            3.5167
+          ]
+        ]
+      },
+      "description": "Added isolated segment inside its DMA; neither endpoint connects to the grid.",
+      "expected_dma_id": "DMA-006"
+    },
+    {
+      "issue_id": "QA-003",
+      "file": "pipes.geojson",
+      "feature_index": 662,
+      "feature_id": "pipe-feature-0663",
+      "pipe_id": "PIPE-0663",
+      "issue_type": "missing_material",
+      "field": "material",
+      "original_value": "HDPE",
+      "injected_value": null,
+      "description": "Intentionally null material."
+    },
+    {
+      "issue_id": "QA-004",
+      "file": "pipes.geojson",
+      "feature_index": 627,
+      "feature_id": "pipe-feature-0628",
+      "pipe_id": "PIPE-0628",
+      "issue_type": "missing_material",
+      "field": "material",
+      "original_value": "AC",
+      "injected_value": null,
+      "description": "Intentionally null material."
+    },
+    {
+      "issue_id": "QA-005",
+      "file": "pipes.geojson",
+      "feature_index": 603,
+      "feature_id": "pipe-feature-0604",
+      "pipe_id": "PIPE-0604",
+      "issue_type": "missing_material",
+      "field": "material",
+      "original_value": "steel",
+      "injected_value": null,
+      "description": "Intentionally null material."
+    },
+    {
+      "issue_id": "QA-006",
+      "file": "pipes.geojson",
+      "feature_index": 476,
+      "feature_id": "pipe-feature-0477",
+      "pipe_id": "PIPE-0477",
+      "issue_type": "missing_material",
+      "field": "material",
+      "original_value": "DI",
+      "injected_value": null,
+      "description": "Intentionally null material."
+    },
+    {
+      "issue_id": "QA-007",
+      "file": "pipes.geojson",
+      "feature_index": 153,
+      "feature_id": "pipe-feature-0154",
+      "pipe_id": "PIPE-0154",
+      "issue_type": "missing_material",
+      "field": "material",
+      "original_value": "uPVC",
+      "injected_value": null,
+      "description": "Intentionally null material."
+    },
+    {
+      "issue_id": "QA-008",
+      "file": "pipes.geojson",
+      "feature_index": 506,
+      "feature_id": "pipe-feature-0507",
+      "pipe_id": "PIPE-0507",
+      "issue_type": "missing_material",
+      "field": "material",
+      "original_value": "DI",
+      "injected_value": null,
+      "description": "Intentionally null material."
+    },
+    {
+      "issue_id": "QA-009",
+      "file": "pipes.geojson",
+      "feature_index": 291,
+      "feature_id": "pipe-feature-0292",
+      "pipe_id": "PIPE-0292",
+      "issue_type": "missing_install_year",
+      "field": "install_year",
+      "original_value": 2018,
+      "injected_value": null,
+      "description": "Intentionally null install_year."
+    },
+    {
+      "issue_id": "QA-010",
+      "file": "pipes.geojson",
+      "feature_index": 448,
+      "feature_id": "pipe-feature-0449",
+      "pipe_id": "PIPE-0449",
+      "issue_type": "missing_install_year",
+      "field": "install_year",
+      "original_value": 2008,
+      "injected_value": null,
+      "description": "Intentionally null install_year."
+    },
+    {
+      "issue_id": "QA-011",
+      "file": "pipes.geojson",
+      "feature_index": 20,
+      "feature_id": "pipe-feature-0021",
+      "pipe_id": "PIPE-0021",
+      "issue_type": "missing_install_year",
+      "field": "install_year",
+      "original_value": 1979,
+      "injected_value": null,
+      "description": "Intentionally null install_year."
+    },
+    {
+      "issue_id": "QA-012",
+      "file": "pipes.geojson",
+      "feature_index": 220,
+      "feature_id": "pipe-feature-0221",
+      "pipe_id": "PIPE-0221",
+      "issue_type": "missing_install_year",
+      "field": "install_year",
+      "original_value": 2008,
+      "injected_value": null,
+      "description": "Intentionally null install_year."
+    },
+    {
+      "issue_id": "QA-013",
+      "file": "pipes.geojson",
+      "feature_index": 238,
+      "feature_id": "pipe-feature-0239",
+      "pipe_id": "PIPE-0239",
+      "issue_type": "missing_install_year",
+      "field": "install_year",
+      "original_value": 1985,
+      "injected_value": null,
+      "description": "Intentionally null install_year."
+    },
+    {
+      "issue_id": "QA-014",
+      "file": "pipes.geojson",
+      "feature_index": 399,
+      "feature_id": "pipe-feature-0400",
+      "pipe_id": "PIPE-0400",
+      "issue_type": "missing_install_year",
+      "field": "install_year",
+      "original_value": 1985,
+      "injected_value": null,
+      "description": "Intentionally null install_year."
+    },
+    {
+      "issue_id": "QA-015",
+      "file": "pipes.geojson",
+      "feature_index": 489,
+      "feature_id": "pipe-feature-0490",
+      "pipe_id": "PIPE-0505",
+      "issue_type": "duplicate_pipe_id",
+      "field": "pipe_id",
+      "original_value": "PIPE-0490",
+      "injected_value": "PIPE-0505",
+      "description": "Copied a donor business ID; feature IDs remain unique.",
+      "duplicate_of_feature_id": "pipe-feature-0505",
+      "duplicate_of_feature_index": 504
+    },
+    {
+      "issue_id": "QA-016",
+      "file": "pipes.geojson",
+      "feature_index": 356,
+      "feature_id": "pipe-feature-0357",
+      "pipe_id": "PIPE-0081",
+      "issue_type": "duplicate_pipe_id",
+      "field": "pipe_id",
+      "original_value": "PIPE-0357",
+      "injected_value": "PIPE-0081",
+      "description": "Copied a donor business ID; feature IDs remain unique.",
+      "duplicate_of_feature_id": "pipe-feature-0081",
+      "duplicate_of_feature_index": 80
+    },
+    {
+      "issue_id": "QA-017",
+      "file": "pipes.geojson",
+      "feature_index": 355,
+      "feature_id": "pipe-feature-0356",
+      "pipe_id": "PIPE-0121",
+      "issue_type": "duplicate_pipe_id",
+      "field": "pipe_id",
+      "original_value": "PIPE-0356",
+      "injected_value": "PIPE-0121",
+      "description": "Copied a donor business ID; feature IDs remain unique.",
+      "duplicate_of_feature_id": "pipe-feature-0121",
+      "duplicate_of_feature_index": 120
+    },
+    {
+      "issue_id": "QA-018",
+      "file": "pipes.geojson",
+      "feature_index": 484,
+      "feature_id": "pipe-feature-0485",
+      "pipe_id": "PIPE-0485",
+      "issue_type": "invalid_dma_id",
+      "field": "dma_id",
+      "original_value": "DMA-006",
+      "injected_value": "DMA-INVALID-1",
+      "description": "Nonexistent DMA foreign key; geometry remains in original DMA."
+    },
+    {
+      "issue_id": "QA-019",
+      "file": "pipes.geojson",
+      "feature_index": 457,
+      "feature_id": "pipe-feature-0458",
+      "pipe_id": "PIPE-0458",
+      "issue_type": "invalid_dma_id",
+      "field": "dma_id",
+      "original_value": "DMA-006",
+      "injected_value": "DMA-INVALID-2",
+      "description": "Nonexistent DMA foreign key; geometry remains in original DMA."
+    },
+    {
+      "issue_id": "QA-020",
+      "file": "pipes.geojson",
+      "feature_index": 604,
+      "feature_id": "pipe-feature-0605",
+      "pipe_id": "PIPE-0605",
+      "issue_type": "invalid_dma_id",
+      "field": "dma_id",
+      "original_value": "DMA-008",
+      "injected_value": "DMA-INVALID-3",
+      "description": "Nonexistent DMA foreign key; geometry remains in original DMA."
+    }
+  ]
+}

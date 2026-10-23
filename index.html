@@ -1,0 +1,63 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="theme-color" content="#103d55">
+  <meta name="description" content="Explore synthetic water networks, DMAs and leak reports around Hulu Selangor, Malaysia.">
+  <title>Hulu Selangor | NRW network map</title>
+  <!-- Pinned Leaflet distribution; application code has no framework or build step. -->
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="">
+  <link rel="stylesheet" href="./style.css">
+  <script defer src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+  <script defer src="./app.js"></script>
+</head>
+<body>
+  <header class="app-header">
+    <div class="brand">
+      <span class="brand-icon" aria-hidden="true"><svg viewBox="0 0 28 32" fill="none"><path d="M14 2C11 7 3 15 3 21a11 11 0 0 0 22 0C25 15 17 7 14 2Z" stroke="currentColor" stroke-width="2"/><path d="M8 21c0 4 3 6 6 6" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg></span>
+      <div><h1>Hulu Selangor <span>Water network</span></h1><p>Non-revenue water <span aria-hidden="true">/</span> Spatial explorer</p></div>
+    </div>
+    <button id="fit-bounds" class="fit-button" type="button" aria-label="Reset view" title="Reset view" disabled><svg viewBox="0 0 20 20" aria-hidden="true"><path d="M7 3H3v4m10-4h4v4M3 13v4h4m10-4v4h-4M7 10h6m-3-3v6"/></svg><span>Reset view</span></button>
+  </header>
+  <nav class="view-tabs" role="tablist" aria-label="Dashboard views"><button id="tab-map" role="tab" aria-selected="true" aria-controls="view-map" type="button">Map</button><button id="tab-qa" role="tab" aria-selected="false" aria-controls="view-qa" tabindex="-1" type="button" disabled>QA/QC</button></nav>
+  <main id="view-map" class="workspace" role="tabpanel" aria-labelledby="tab-map">
+    <aside id="insights" class="insights" aria-label="Water balance and DMA insights">
+      <button id="sheet-toggle" class="sheet-toggle" type="button" aria-expanded="false" aria-controls="panel-content"><span class="sheet-handle" aria-hidden="true"></span><span>Water balance &amp; DMA ranking</span><span class="sheet-chevron" aria-hidden="true">⌃</span></button>
+      <div id="panel-content" class="panel-content">
+        <div class="panel-heading"><span class="eyebrow">NETWORK OVERVIEW</span><h2>Water balance</h2><p>All DMAs · Hulu Selangor</p></div>
+        <label class="period-label" for="period-select">Reporting period</label>
+        <select id="period-select" disabled><option value="annual">Annual · 2025</option><option value="2025-01">Jan 2025</option><option value="2025-02">Feb 2025</option><option value="2025-03">Mar 2025</option><option value="2025-04">Apr 2025</option><option value="2025-05">May 2025</option><option value="2025-06">Jun 2025</option><option value="2025-07">Jul 2025</option><option value="2025-08">Aug 2025</option><option value="2025-09">Sep 2025</option><option value="2025-10">Oct 2025</option><option value="2025-11">Nov 2025</option><option value="2025-12">Dec 2025</option></select>
+        <div id="kpi-grid" class="kpi-grid" aria-live="polite" aria-atomic="true"><p class="panel-note">Loading period totals…</p></div>
+        <p class="panel-note leak-method">Open includes in progress. Counts and daily loss use reports from the selected period and their recorded repair status.</p>
+        <section class="ranking-section" aria-labelledby="ranking-title"><div class="section-heading"><h3 id="ranking-title">DMA ranking</h3><span>Highest NRW first</span></div>
+          <p id="ranking-method" class="panel-note">Annual: mean of monthly NRW percentages.</p>
+          <div id="ranking-scroll" class="ranking-scroll"><table class="ranking-table"><thead><tr><th scope="col">#</th><th scope="col">DMA</th><th scope="col">NRW</th></tr></thead><tbody id="dma-ranking"></tbody></table></div>
+        </section>
+        <section id="dma-detail" class="dma-detail" aria-labelledby="detail-title" hidden></section>
+        <p class="panel-footnote">Synthetic data for demonstration</p>
+      </div>
+    </aside>
+    <section class="map-shell" aria-label="Network map">
+    <div id="qa-focus" class="qa-focus" role="status" hidden><span><b>QA/QC focus</b><span id="qa-focus-message"></span></span><button id="clear-qa-focus" type="button">Clear highlight</button></div>
+    <div id="map" aria-label="Interactive map of synthetic Hulu Selangor water infrastructure"></div>
+    <aside class="location-tag" aria-label="Map context"><span class="eyebrow">SELANGOR, MALAYSIA</span><strong>Explore the network</strong><span>2025 data <span aria-hidden="true">·</span> Select a feature for details</span></aside>
+    <div id="load-status" class="load-status" role="status" aria-live="polite"><span class="spinner" aria-hidden="true"></span><strong>Loading the water network…</strong></div>
+    <div id="tile-status" class="tile-status" role="status" aria-live="polite" hidden>Basemap unavailable. Try switching basemaps; network layers remain available.</div>
+    <div class="synthetic-badge"><span aria-hidden="true"></span>Synthetic data for demonstration</div>
+    <noscript><div class="no-script">Enable JavaScript to view this map.</div></noscript>
+    </section>
+  </main>
+  <main id="view-qa" class="qa-view" role="tabpanel" aria-labelledby="tab-qa" hidden>
+    <div class="qa-heading"><div><span class="eyebrow">DATA QUALITY</span><h2>QA/QC review</h2><p>Automated checks across the full inventory, independent of the reporting period.</p></div><button id="qa-export" class="fit-button" type="button">Export issues as CSV</button></div>
+    <div class="qa-summary-wrap"><div id="qa-summary" class="qa-summary"></div><div id="qa-detection" hidden></div></div>
+    <div id="qa-check-counts" class="qa-check-counts" aria-label="Issue counts by check"></div>
+    <p class="qa-method">Pass rate = records with no issues ÷ infrastructure records checked. A record may have multiple issues; duplicate groups flag every member. Spatial checks use a 1 m endpoint tolerance and assigned DMA boundaries. Unknown DMA references are reported as orphans; invalid pipe/leak geometry is reported as an untestable boundary check.</p>
+    <section class="qa-results" aria-labelledby="qa-results-title"><div class="qa-table-heading"><h3 id="qa-results-title">Issues to review</h3><div class="qa-filters"><label>Check type<select id="qa-check-filter"></select></label><label>DMA<select id="qa-dma-filter"></select></label></div></div>
+      <p id="qa-table-status" class="panel-note" role="status" aria-live="polite"></p><div class="qa-table-scroll"><table class="qa-table"><thead><tr><th scope="col">Check</th><th scope="col">Layer</th><th scope="col">Feature ID</th><th scope="col">DMA</th><th scope="col">Description</th></tr></thead><tbody id="qa-issues-body"></tbody></table></div><p class="panel-note">CSV exports the filtered rows. Red map highlighting remains until you clear it or reset the view. Geometry without a usable location cannot be drawn.</p>
+    </section>
+  </main>
+  <footer class="project-footer" aria-label="Project information"><span>Hulu Selangor NRW Monitor</span><span>Synthetic data for demonstration</span><a href="https://github.com/YOUR_USERNAME/YOUR_REPOSITORY" target="_blank" rel="noopener noreferrer" aria-label="GitHub repository (placeholder)">GitHub</a></footer>
+</body>
+</html>
+
